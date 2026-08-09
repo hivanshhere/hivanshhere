@@ -19,9 +19,9 @@
 
 ## 👤 Who I Am
 
-Hey there! I'm **Vansh Mittal**, a Full Stack Developer and CS Student who enjoys turning ideas into working products. I'm comfortable across the stack — from building interfaces with **HTML, CSS, and JavaScript** to powering them with **Node.js and Express.js** on the backend, and I write a lot of **Python, Java, C++, C, and SQL** along the way. I've also been exploring the data and ML side of things with **Scikit-learn, Pandas, and NumPy**.
+Hey there! I'm **Vansh Mittal**, a Full Stack Developer and CSE Student specialization in Artificial Intelligence and Data Science who enjoys turning ideas into working products. I'm comfortable across the stack — from building interfaces with **HTML, CSS, and JavaScript** to powering them with **Node.js and Express.js** on the backend, and I write a lot of **Python, Java, C++, C, and SQL** along the way. I've also been exploring the data and ML side of things with **Scikit-learn, Pandas, and NumPy**.
 
-One of my recent builds is **Freshmart_grocery_live**, a full-stack online grocery platform where users can browse products, manage a cart, and check out — you can check it out live [here](https://freshmart-grocery-suqy.onrender.com).
+One of my recent builds is **Freshmart_Grocery_Website**, a full-stack online grocery platform where users can browse products, manage a cart, and check out — you can check it out [live here](https://freshmart-grocery-suqy.onrender.com).
 
 Right now, I'm sharpening my skills in **Machine Learning** and **backend architecture**, and I'm actively **open to full-stack roles, internships, and open-source collaborations**. Feel free to reach out — I'm always up for building something new!
 
@@ -41,7 +41,7 @@ An online grocery shopping platform built to let users browse, add to cart, and 
 |------------|--------------------------|
 | Frontend   | HTML, CSS, JavaScript    |
 | Backend    | Node.js, Express.js      |
-| Database   | SQL                      |
+| Database   | MongoDB                  |
 
 🔗 [Live Demo](https://freshmart-grocery-suqy.onrender.com) &nbsp;•&nbsp; 💻 [Source Code](https://github.com/hivanshhere/Freshmart_grocery_live)
 
