@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Vansh%20Mittal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Vansh%20Mittal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Web%20%%20Developer%20%7C%20CSE%20Student&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CS+Student;Building+with+Python+%26+JavaScript;Exploring+Machine+Learning" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 ## 👤 Who I Am
 
-Hey there! I'm **Vansh Mittal**, a Full Stack Developer and CSE Student specialization in Artificial Intelligence and Data Science who enjoys turning ideas into working products. I'm comfortable across the stack — from building interfaces with **HTML, CSS, and JavaScript** to powering them with **Node.js and Express.js** on the backend, and I write a lot of **Python, Java, C++, C, and SQL** along the way. I've also been exploring the data and ML side of things with **Scikit-learn, Pandas, and NumPy**.
+Hey there! I'm **Vansh Mittal**, a Full Stack Web Developer and CSE Student specialization in Artificial Intelligence and Data Science who enjoys turning ideas into working products. I'm comfortable across the stack — from building interfaces with **HTML, CSS, and JavaScript** to powering them with **Node.js and Express.js** on the backend, and I write a lot of **Python, Java, C++, C, and SQL** along the way. I've also been exploring the data and ML side of things with **Scikit-learn, Pandas, and NumPy**.
 
 One of my recent builds is **Freshmart_Grocery_Website**, a full-stack online grocery platform where users can browse products, manage a cart, and check out — you can check it out [live here](https://freshmart-grocery-suqy.onrender.com).
 
